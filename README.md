@@ -22,6 +22,9 @@ https://f-droid.org/repository/browse/?fdid=org.fitchfamily.android.gsmlocation
 
 µg UnifiedNlp is part of the μg Project at https://github.com/microg 
 
+License:
+http://creativecommons.org/licenses/by-sa/3.0/
+http://creativecommons.org/licenses/by-sa/3.0/legalcode
 
 ### How To Use
 1. Download and extract the lacells.tar.xz
