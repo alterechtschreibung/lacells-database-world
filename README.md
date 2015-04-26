@@ -30,7 +30,7 @@ http://creativecommons.org/licenses/by-sa/3.0/legalcode
 ```
 	tar xf lacells.tar.xz
 ```
-(or use 7-zip on Windows)
+(or use 7-zip on Windows)  
 2. Push the the generated database to /storage/emulated/0/.nogapps/lacells.db
 ```
 	adb push lacells.db /storage/emulated/0/.nogapps/lacells.db
