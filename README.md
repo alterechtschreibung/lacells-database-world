@@ -3,26 +3,26 @@ lacells-database-world
 
 A cell tower database for µg UnifiedNlp (UnifiedNlp) with LocalGsmNlpBackend, including woldwide tower information from OpenCellId and Mozilla Location Services. cell tower database for µg UnifiedNlp (UnifiedNlp)
 
-### About µg UnifiedNlp:
+### About µg UnifiedNlp
 µg UnifiedNlp is a FLOSS (Free/Libre Open Source Software) tool for geolocating android phones without Google's Geolocation service. It allows apps that use Android's coarse or network locating features to geolocate the phone which is usually faster and less battery consuming then GPS. 
 The real location work is done by backends (plug-ins) that can be configured through the UnifiedNlp UI. 
 The LocalGsmNlpBackend backend performs no network data. All data acquired by the phone stays on the phone and no queries are made to a centralized AP location provider.
 Therefor a database must be placed in the .nogapps folder of your internal phone storage.
 
-### About this database:
+### About this database
 This database was generated with https://github.com/alterechtschreibung/lacells-creator-mod.  
 The database is required for the LocalGsmNlpBackend and includes woldwide tower information from OpenCellId and Mozilla Location Services.
 
 Folder for the generated database: 
 /storage/emulated/0/.nogapps/lacells.db
 
-### Required downloads besides this database:
+### Required downloads besides this database
 1. https://f-droid.org/repository/browse/?fdid=com.google.android.gms
 2. https://f-droid.org/repository/browse/?fdid=org.fitchfamily.android.gsmlocation
 
 µg UnifiedNlp is part of the μg Project at https://github.com/microg 
 
-### License:
+### License
 http://creativecommons.org/licenses/by-sa/3.0/legalcode
 
 ### How To Use
