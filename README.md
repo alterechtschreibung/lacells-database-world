@@ -18,12 +18,12 @@ Folder for the generated database:
 
 Downloads besides this database:
 https://f-droid.org/repository/browse/?fdid=com.google.android.gms
+
 https://f-droid.org/repository/browse/?fdid=org.fitchfamily.android.gsmlocation
 
 µg UnifiedNlp is part of the μg Project at https://github.com/microg 
 
 License:
-http://creativecommons.org/licenses/by-sa/3.0/
 http://creativecommons.org/licenses/by-sa/3.0/legalcode
 
 ### How To Use
