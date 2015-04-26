@@ -16,7 +16,7 @@ The database is required for the LocalGsmNlpBackend and includes woldwide tower 
 Folder for the generated database: 
 /storage/emulated/0/.nogapps/lacells.db
 
-### Downloads besides this database:
+### Required downloads besides this database:
 1. https://f-droid.org/repository/browse/?fdid=com.google.android.gms
 2. https://f-droid.org/repository/browse/?fdid=org.fitchfamily.android.gsmlocation
 
